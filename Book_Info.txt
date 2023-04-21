@@ -1,0 +1,25 @@
+00|DUNE|Frank Herbert|Sci-fi|5.49|28/11/2019|
+01|CHARLOTTE'S WEB|E.B.White|Kids|6.65|28/11/2019|
+02|THE VERY HUNGRY CATERPILLER|Eric Carle|Kids|4|28/11/2019|
+03|JINX|Sage Blackwood|Fantasy|4|28/11/2019|
+04|MATILDA|Rohald Dahl|Kids|4|28/11/2019|
+05|JAWS|Peter Benchley|Action|4.99|28/11/2016|
+06|PRIDE AND PREJUDICE|Jane Austen|Romance|5.75|28/11/2019|
+07|DUNE|Frank Herbert|Sci-fi|5.49|28/11/2019|
+08|CHARLOTTE'S WEB|E.B.White|Kids|6.65|28/11/2019|
+09|TREASURE ISLAND|Robert Louis Stevenson|Action|2.5|28/11/2019|
+10|CORALINE|Neil Gaiman|Horror|6.69|28/11/2019|
+11|BORN A CRIME|Trevor Noah|Comedy|14.99|28/11/2019|
+12|THE CAT IN THE HAT|Dr.Seuss|Kids|4.5|28/11/2019|
+13|SIX OF CROWS|Leigh Bardugo|Action|3|28/11/2019|
+14|MATILDA|Rohald Dahl|Kids|4|28/11/2019|
+15|WONDER|R.J.Palacio|Kids|4|28/11/2019|
+16|TWILIGHT|Stephenie Meyer|Romance|7.99|28/11/2019|
+17|THE SILENT PATIENT|ALex Michaelides|Thriller|3.79|28/11/2019|
+18|THE CAT IN THE HAT|Dr.Seuss|Kids|4.5|28/11/2019|
+19|THE WOMEN IN BLACK|Susan Hill|Horror|3.49|28/11/2019|
+20|MATILDA|Rohald Dahl|Kids|4|28/11/2019|
+21|THE VERY HUNGRY CATERPILLER|Eric Carle|Kids|4|28/11/2019|
+22|THE HUNGER GAMES|Suzanne Collins|Sci-fi|4|28/11/2019|
+23|WONDER|R.J.Palacio|Kids|4|28/11/2019|
+24|RANDOM BOOK|Random Author|Random|5.99|28/11/2019|
